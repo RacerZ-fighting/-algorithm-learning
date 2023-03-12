@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/-algorithm-learning.iml" filepath="$PROJECT_DIR$/.idea/-algorithm-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_structure/data_structure.iml" filepath="$PROJECT_DIR$/data_structure/data_structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_structure_list/data_structure_list.iml" filepath="$PROJECT_DIR$/data_structure_list/data_structure_list.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="/var/folders/j8/6sgvpp850l38kj2v82cgnmwm0000gn/T/leetcode/editor/cn/[23]合并K个升序链表.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/j8/6sgvpp850l38kj2v82cgnmwm0000gn/T/leetcode/editor/cn/doc/content/[23]合并K个升序链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn23" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/j8/6sgvpp850l38kj2v82cgnmwm0000gn/T/leetcode/editor/cn/[23]合并K个升序链表.java" />
+              <option name="titleSlug" value="merge-k-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/j8/6sgvpp850l38kj2v82cgnmwm0000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/j8/6sgvpp850l38kj2v82cgnmwm0000gn/T/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/j8/6sgvpp850l38kj2v82cgnmwm0000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
+              <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/j8/6sgvpp850l38kj2v82cgnmwm0000gn/T/leetcode/editor/cn/[707]设计链表.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/j8/6sgvpp850l38kj2v82cgnmwm0000gn/T/leetcode/editor/cn/doc/content/[707]设计链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn707" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/j8/6sgvpp850l38kj2v82cgnmwm0000gn/T/leetcode/editor/cn/[707]设计链表.java" />
+              <option name="titleSlug" value="design-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
